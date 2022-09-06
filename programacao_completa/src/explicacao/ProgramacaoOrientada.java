@@ -78,6 +78,28 @@ public class ProgramacaoOrientada { //Nome da classe
 		 *
 		 */
 		
+		/* 
+		 * Discussão 5:
+		 * 
+		 * No problema dos triângulos, cada triângulo possui sua área.
+		 * 
+		 * Area() é uma operação concernente ao objeto: cada triângulo possui sua área.
+		 * 
+		 * x >> 3.0(A) | 4.0(B) | 5.0(C) = (x.area() 6.0)
+		 * 
+		 * y >> 7.5(A) | 4.5(B) | 4.02(C) = (y.area() 7.5638)
+		 * 
+		 * Já no caso da calculadora, os valores dos cálculos não mudam para calculadoras diferentes, ou seja, são cálculos estáticos. O valor de Pi também é estático.
+		 * 
+		 * Calculator calc1 = new Calculator();
+		 * Calculator calc2 = new Calculator();
+		 * 
+		 * calc1 >> 3.14[Pi] / calc1.PI(3.14) / calc1.circumference((3.0)18.85)
+		 * 
+		 * calc2 >> 3.1[Pi] / cacl2.PI(3.14) / calc2.circumference((3.0)18.85)
+		 * 
+		 */
+		
 		
 		
 		
