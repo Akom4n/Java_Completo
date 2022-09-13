@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="Exercicio_Fixacao"/>
 	<classpathentry kind="src" path="Membros"/>
 	<classpathentry kind="src" path="Construtor"/>
+	<classpathentry kind="src" path="Vet_Array_List"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
