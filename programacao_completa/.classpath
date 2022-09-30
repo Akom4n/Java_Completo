@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="Construtor"/>
 	<classpathentry kind="src" path="Vet_Array_List"/>
 	<classpathentry kind="src" path="Data_Hora"/>
+	<classpathentry kind="src" path="Enumeracoes_composicao"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
